@@ -9,6 +9,7 @@ import lombok.Setter;
 @Setter
 @NoArgsConstructor
 public class CreateTaskDTO {
+    //Still need to complete it is in process
     String title;
     String description;
     String deadline; // in "yyy-mm-dd" format

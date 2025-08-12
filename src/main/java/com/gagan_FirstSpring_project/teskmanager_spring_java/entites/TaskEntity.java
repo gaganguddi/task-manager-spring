@@ -6,6 +6,7 @@ import java.util.Date;
 
 @Data
 public class TaskEntity {
+    //Still need to complete it is in process
     private int id;
     private  String title;
     private  String  description;
